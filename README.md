@@ -1,4 +1,5 @@
-#手把手下載Minesweeper教學/n
+#Minesweeper_game
+#手把手下載Minesweeper教學
 1.右邊找到Releses點下面的tag 版本
 2.進去後再下面找到Asset的標籤選擇Minesweeper.zip一鍵點擊就開始下載了
 3.下載後解壓縮
